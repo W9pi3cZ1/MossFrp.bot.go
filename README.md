@@ -1,2 +1,2 @@
 # MossFrp.bot.go
-又是一个MossFrp签到程序，但是用go写的。
+没什么好讲的，就是把另一个用python完成的项目，用go
